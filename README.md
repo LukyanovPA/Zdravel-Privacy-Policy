@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Aspirin app for mobile devices, together with any related services operated by Pavel Lukyanov (collectively, the "Application"). Pavel Lukyanov is hereby referred to as the "Service Provider".
+This privacy policy applies to the Zdravel app for mobile devices, together with any related services operated by Pavel Lukyanov (collectively, the "Application"). Pavel Lukyanov is hereby referred to as the "Service Provider".
 
 **What information does the Application obtain and how is it used?**
 
